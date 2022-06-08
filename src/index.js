@@ -7,4 +7,4 @@ function Hello() {
 
 const root = createRoot(document.getElementById('root'));
 
-root.render(<Hello></Hello>);
+root.render(<Hello />);
